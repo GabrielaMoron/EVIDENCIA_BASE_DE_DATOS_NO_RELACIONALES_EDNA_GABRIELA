@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "636aa363ba55225c6d600248"
+  },
+  "nombre": "Manson",
+  "apellido": "Mount",
+  "edad": "22",
+  "equipo": "Barcelona",
+  "posicion": "mediocentro"
+},{
+  "_id": {
+    "$oid": "636aa363ba55225c6d600249"
+  },
+  "nombre": "Pedri",
+  "apellido": "Gonzales",
+  "edad": "19",
+  "equipo": "Barcelona",
+  "posicion": "mediocentro"
+},{
+  "_id": {
+    "$oid": "636aa363ba55225c6d60024b"
+  },
+  "nombre": "Lionel",
+  "apellido": "Messi",
+  "edad": "35",
+  "equipo": "Barcelona",
+  "posicion": "extremo derecho"
+}]

@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "636aab75ba55225c6d600252"
+  },
+  "nombre": "Gabriella",
+  "apellido": "Butler",
+  "edad": "24",
+  "equipo": "Navarro College",
+  "posicion": "flyer"
+},{
+  "_id": {
+    "$oid": "636aab75ba55225c6d600253"
+  },
+  "nombre": "La'Darius",
+  "apellido": "Marshall",
+  "edad": "24",
+  "equipo": "Navarro College",
+  "posicion": "base"
+},{
+  "_id": {
+    "$oid": "636aab75ba55225c6d600254"
+  },
+  "nombre": "Lexi",
+  "apellido": "Brumback",
+  "edad": "22",
+  "equipo": "Navarro College",
+  "posicion": "gimnasta"
+},{
+  "_id": {
+    "$oid": "636aab75ba55225c6d600256"
+  },
+  "nombre": "Maddy",
+  "apellido": "Brum",
+  "edad": "21",
+  "equipo": "Navarro College",
+  "posicion": "flyer"
+}]
